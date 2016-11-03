@@ -3,11 +3,11 @@
 
 ##On development
 
-The first version: Is fork from [this](https://github.com/Kelvin65535/LibrarySystem),I use CVS Magic to make it to more kind of feature
+<strong>The first version</strong>:  Is fork from [this](https://github.com/Kelvin65535/LibrarySystem) I use CVS Magic to make it to more kind of feature
 
-Compiler: GCC
+<strong>Compiler</strong>:  GCC
 
-Development tool: DevC++
+<strong>Development tool</strong>:  DevC++
 
 
 ##The following blog post helped me

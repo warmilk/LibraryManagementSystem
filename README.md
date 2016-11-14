@@ -28,6 +28,7 @@
 
 :octocat: 4.create_user()写多条function调用，用于检测必须输入的为刚好11位的纯数字usernum
 
+:octocat: 5.在sysuser结构体增加id字段，用于登录时自动判断用户角色
 
 ##Declaration
 
